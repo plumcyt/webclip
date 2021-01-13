@@ -1,14 +1,8 @@
 # Joplin 免費開源筆記軟體圖解教學，最像 Evernote 的替代工具
-{ "@context": "[http://schema.org"](http://schema.org"), "@type": "BlogPosting", "mainEntityOfPage": { "@type": "WebPage", "@id": "[https://www.playpcesor.com/2020/04/joplin-evernote.html](https://www.playpcesor.com/2020/04/joplin-evernote.html)"},"headline":"Joplin 免費開源筆記軟體圖解教學，最像 Evernote 的替代工具 ","description":"「 Joplin 」是近期愈來愈受到關注的一款免費、開源的筆記軟體。在逐步的改進中，目前的「 Joplin 」已經是一款功能完整，對大多數使用者來說都不難上手，並且可以解決大多數筆記需求的工具。 而「 Joplin 」的一大特色，就是常常被說是最像 Evernote...","datePublished":"2020-04-24T13:14:00+08:00","dateModified":"2020-04-24T13:14:23+08:00","image": {"@type":"ImageObject","url":"[https://1.bp.blogspot.com/-hrCyg25\\\_mB8/XqJk7N-XTmI/AAAAAAAHHFw/SX2ulkpTE-cpsG3O5CPi27eRJ-Jrj7lhACEwYBhgL/w1200-h630-p-k-no-nu/ScreenClip%2B%255B25%255D.png"](https://1.bp.blogspot.com/-hrCyg25\_mB8/XqJk7N-XTmI/AAAAAAAHHFw/SX2ulkpTE-cpsG3O5CPi27eRJ-Jrj7lhACEwYBhgL/w1200-h630-p-k-no-nu/ScreenClip%2B%255B25%255D.png"), "height": 630, "width": 1200},"publisher": { "@type": "Organization", "name": "Blogger", "logo": { "@type": "ImageObject", "url": "[https://lh3.googleusercontent.com/ULB6iBuCeTVvSjjjU1A-O8e9ZpVba6uvyhtiWRti\\\_rBAs9yMYOFBujxriJRZ-A=h60"](https://lh3.googleusercontent.com/ULB6iBuCeTVvSjjjU1A-O8e9ZpVba6uvyhtiWRti\_rBAs9yMYOFBujxriJRZ-A=h60"), "width": 206, "height": 60 } },"author": {"@type": "Person", "name": "Esor Huang"} }
+
 
 ### Joplin 免費開源筆記軟體圖解教學，最像 Evernote 的替代工具
 
--   取得連結
--   Facebook
--   Twitter
--   Pinterest
--   電子郵件
--   其他應用程式
 
 作者：  [ Esor Huang ](https://www.blogger.com/profile/10426807330996372963 "author profile")   [  4 月 24, 2020  ](https://www.playpcesor.com/2020/04/joplin-evernote.html "permanent link") 
 
